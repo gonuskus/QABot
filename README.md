@@ -16,8 +16,8 @@ MySQL docker контейнер
 
 ### Интеграция
 
-[Redmine]
-[Jira]
+* Redmine
+* Jira
 
 ### Запуск бота
 
