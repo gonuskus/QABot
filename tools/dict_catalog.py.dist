@@ -1,0 +1,23 @@
+evening_title = [
+    "Добрый вечер! 🕧",
+    "Мое почтение! 😎",
+    "Buona serata (итал.) 🇮🇹",
+    "Добрий вечір (укр.) 🍟"
+]
+team_member = {
+    team1: (username1,username2),
+}
+
+tg_member = {
+    username1: tgusername1
+}
+
+teams = {
+    team1: {'jira_project': '', 'redmine_assigned_to_id': '', 'section': ''},
+
+}
+
+broadcasting_news = {
+    'prepare_evening_news': 'Итоги дня',
+    'prepare_sprint_news': 'Статус спринта',
+}
